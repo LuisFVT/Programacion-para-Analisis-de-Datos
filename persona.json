@@ -1,0 +1,9 @@
+{
+    "nombre": "Juan",
+    "edad": 30,
+    "es_estudiante": false,
+    "cursos": [
+        "Programacion Para el Analisis de Datos",
+        "Cibersueguridad"
+    ]
+}

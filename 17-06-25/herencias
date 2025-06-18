@@ -1,0 +1,5 @@
+carro : clase base
+ 
+caroo deportivo : hereda de carro 
+carro electrico : herencia de carro
+carro hidrido : hereda de deportivo y electrico

@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Arroz Frito",
+        "precio": 120.0,
+        "descripcion": "Arroz de carne rebosado el salsas negras",
+        "ingredientes": [
+            "arroz",
+            "salsas negras",
+            "carne vacuna",
+            "zanahoria"
+        ]
+    },
+    {
+        "nombre": "Chow Fan",
+        "precio": 120.0,
+        "descripcion": "arroz negro con diferentes verduras al vapor",
+        "tipo_arroz": [
+            "arroz integral",
+            "zanahoria",
+            "papa",
+            "brocoli",
+            "salsa de soya"
+        ]
+    },
+    {
+        "nombre": "Arroz Frito",
+        "precio": 80.0,
+        "descripcion": "arroz frito con verduras y carne, de adalberto",
+        "ingredientes": [
+            "arroz",
+            "carne",
+            "chicharos",
+            "zanahoria",
+            "brocoli",
+            "soya"
+        ]
+    }
+]
