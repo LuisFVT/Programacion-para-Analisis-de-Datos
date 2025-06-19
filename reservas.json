@@ -1,0 +1,41 @@
+[
+    {
+        "cliente": {
+            "nombre": "Luis Fernando",
+            "apellido": "Villalba Tomas",
+            "metodo_pago": "Efectivo"
+        },
+        "habitacion": {
+            "numero": 205,
+            "tipo": "Familiar",
+            "precio": 160,
+            "disponible": false
+        }
+    },
+    {
+        "cliente": {
+            "nombre": "Carlos Alberto",
+            "apellido": "Villalba Tomas",
+            "metodo_pago": "Tarjeta"
+        },
+        "habitacion": {
+            "numero": 204,
+            "tipo": "Triple",
+            "precio": 110,
+            "disponible": false
+        }
+    },
+    {
+        "cliente": {
+            "nombre": "Ricardo",
+            "apellido": "Martinez",
+            "metodo_pago": "Efectivo"
+        },
+        "habitacion": {
+            "numero": 203,
+            "tipo": "Suite",
+            "precio": 130,
+            "disponible": false
+        }
+    }
+]
